@@ -1,2 +1,2 @@
-# imlab_copying_gcloud_databases_tables_between_projects
-copy gcloud databases tables between projects
+# copy-gcloud-bigquery-tables-between-projects
+copy gcloud bigquery databases tables between projects
